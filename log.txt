@@ -1,0 +1,24 @@
+Fri Jun 27 10:44:24 IST 2025: Created/Updated note: Assignment 
+Fri Jun 27 10:46:48 IST 2025: Created/Updated note: 2025 Goals
+Exception: java.io.FileNotFoundException: notes/2025 goals.txt (No such file or directory)
+	 at java.base/java.io.FileInputStream.open0(Native Method)
+	 at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	 at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	 at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	 at NotesApp.readNote(NotesApp.java:61)
+	 at NotesApp.main(NotesApp.java:25)
+Fri Jun 27 10:47:36 IST 2025: Read note: 2025 Goals
+Fri Jun 27 10:47:43 IST 2025: Listed all notes
+Fri Jun 27 10:48:45 IST 2025: Searched notes with keyword: consistent
+Fri Jun 27 10:52:02 IST 2025: Created/Updated note: Intership task
+Fri Jun 27 10:52:16 IST 2025: Listed all notes
+Fri Jun 27 10:52:33 IST 2025: Searched notes with keyword: intership
+Fri Jun 27 10:52:48 IST 2025: Searched notes with keyword: student
+Exception: java.io.FileNotFoundException: notes/Assignment.txt (No such file or directory)
+	 at java.base/java.io.FileInputStream.open0(Native Method)
+	 at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	 at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	 at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	 at NotesApp.readNote(NotesApp.java:61)
+	 at NotesApp.main(NotesApp.java:25)
+Fri Jun 27 10:53:22 IST 2025: Read note: 2025 Goals

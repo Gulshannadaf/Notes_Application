@@ -1,0 +1,6 @@
+task 1 : build a java console 
+task 2 : build a calculator app
+task 3 : build a student record system 
+task 4 : build a library record system
+task 5 : build a notes app
+
